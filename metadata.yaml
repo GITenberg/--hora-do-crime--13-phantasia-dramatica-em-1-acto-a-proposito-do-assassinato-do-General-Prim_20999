@@ -1,0 +1,37 @@
+_repo: --hora-do-crime--13-phantasia-dramatica-em-1-acto-a-proposito-do-assassinato-do-General-Prim_20999
+_version: 0.1.0
+alternative_title: "À hora do crime\r\nfantasia dramática em 1 acto a propósito do\
+  \ assassinato do General Prim"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miranda, Francisco Luís Coutinho de
+    aliases:
+    - Miranda, Francisco Luis Coutinho de
+    - Miranda, Francisco Luiz Coutinho de
+    deathdate: 1883
+    gutenberg_agent_id: '9663'
+    url: http://www.gutenberg.org/2009/agents/9663
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2007-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20999'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom the Google Print project.)"
+publication_note: "Lisboa:\r\nTyp. Livre--22, Rua da Padaria, 22\r\n1871"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Drama'
+title: "Á hora do crime\r\nphantasia dramatica em 1 acto a proposito do assassinato\
+  \ do General Prim"
+url: http://www.gutenberg.org/ebooks/20999
